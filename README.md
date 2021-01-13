@@ -1,8 +1,8 @@
 ### Hi there I am Chidananda 👋
 - 🔭 I’m currently working on frontend tech stack which includes javascript,react,html,css,graphql,typescript
-- 🌱 I’m currently learning vuejs,python
 - 🌱 I’have worked on Technical stack which includes javascript,reactjs,redux,html,css,java
 - 🌱 I’m aware of basic Datastructure and alogithms
+- 🌱 I’m currently learning vuejs,python
 <!--
 **chidananda-mn/chidananda-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
